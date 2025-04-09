@@ -1,0 +1,47 @@
+/* portafolio */
+* {
+    margin: 0;
+    padding: 0;
+    
+
+
+}
+
+body{
+    color: black;
+    
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+
+
+}
+
+div {
+    
+    
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+img {
+    width:70%;
+    margin: 2em;
+    
+    flex-wrap: wrap;
+    
+   
+}
+
+h1 {
+    text-align: center;
+}
+
+.a {
+    display: flex;
+    color: black;
+    margin: auto;
+    text-align: center;
+    flex-direction: column;
+    
+}

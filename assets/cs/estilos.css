@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+
+
+}
+
+body{
+    color: black;
+    
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+
+}
+.foto {
+    width: 250px;
+    border: 0.1em solid rgba(12, 9, 26, 0.685);
+    border-radius: 3%;
+   
+}
+
+h4 {
+    color: black;
+    text-align: center;
+    
+}
+
+.logos {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.logos svg {
+flex-basis:25%;
+margin-top: 1.3em;
+}
+
+
+ 
+
+img {
+    display: flex;
+    margin: auto;
+    width: 150px;
+    border-radius: .3em;
+
+}
+
+.free {
+    width: 200px
+}
+p{
+    
+    color: black;
+    text-align: center;
+    
+    
+}
+
+.perfil{
+    text-align: justify;
+}
+
+
+
+.logo-2 {
+    width: 60px;
+    justify-content: space-between;
+    
+}
+.container-logo {
+    width: 300px;
+    justify-content: center;
+    
+}
+.container-contacto {
+    width: 300px;
+    text-align: center;
+    
+}
+.exp {
+    text-align: center;
+}
+
+footer {
+    flex-wrap: wrap;
+    padding-top: 2em;
+    color: black;
+    justify-content: space-between;
+    background-color: rgba(21, 34, 219, 0.158);
+   
+}
+
