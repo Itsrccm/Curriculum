@@ -20,17 +20,27 @@ div {
     
     align-items: center;
     flex-wrap: wrap;
-    justify-content: center;
+    
+    justify-content: space-between;
 }
 
 
 img {
-    width:70%;
+    width:60%;
     margin: 2em;
+    text-align: center;
+    width: 600px;
+    height: 400px;
+   
     
     flex-wrap: wrap;
     
    
+}
+p {
+    text-align: center;
+    margin: auto;
+    
 }
 
 h1 {
